@@ -1,0 +1,14 @@
+# Virtual environment
+.env/
+venv/
+
+# Downloaded audio / output
+downloads/
+failed.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
